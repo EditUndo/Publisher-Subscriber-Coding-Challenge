@@ -1,0 +1,5 @@
+c:\Users\pbuah\documents\visual studio 2015\Projects\NTCC\Client\bin\Debug\Client.exe.config
+c:\Users\pbuah\documents\visual studio 2015\Projects\NTCC\Client\bin\Debug\Client.exe
+c:\Users\pbuah\documents\visual studio 2015\Projects\NTCC\Client\bin\Debug\Client.pdb
+c:\Users\pbuah\documents\visual studio 2015\Projects\NTCC\Client\obj\Debug\Client.exe
+c:\Users\pbuah\documents\visual studio 2015\Projects\NTCC\Client\obj\Debug\Client.pdb
